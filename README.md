@@ -1,4 +1,4 @@
-# BIOENG 2340_project
+# BIOENG 2340 Project
 
 Team Project for BIOENG 1340/2340 
 
