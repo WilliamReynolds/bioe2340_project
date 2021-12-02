@@ -10,3 +10,9 @@ Repo includes
 - models
     - hashed_mods.pkl - Python pickelized dictionary. Key: hashed model object, Val: model, shap_values
     - model_result_list.pkl - Python pickelized list containing all models built for project, Maps to new_list in notebook 5_Build_models.ipynb
+
+Contributors:
+- Apurva Rane
+- William Reynolds
+- Victoria Turchick
+- Jessica Weber
