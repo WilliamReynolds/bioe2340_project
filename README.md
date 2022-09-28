@@ -1,6 +1,6 @@
-# BIOENG 2340 Project
-
 Team Project for BIOENG 1340/2340 
+
+# BIOENG 2340 Project
 
 Repo includes 
 - code
